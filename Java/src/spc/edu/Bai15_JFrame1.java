@@ -16,7 +16,7 @@ public class Bai15_JFrame1 {
         JPanel panel = new JPanel();
         JFrame frame = new JFrame("Ví dụ JFrame đơn giản");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 300); //Kích thước cửa sổ
+        frame.setSize(600, 500); //Kích thước cửa sổ
         
         //Tạo một nút
         JButton button = new JButton("Nhấn tôi!");
